@@ -1,0 +1,351 @@
+{
+    "searchRetrieveResponse": {
+        "version": 1.2,
+        "numberOfRecords": 10,
+        "records": [
+            {
+                "recordPacking": "xml",
+                "recordIdentifier": "498573000000",
+                "recordPosition": "191",
+                "recordData": {
+                    "dc_title": "EXPERIENCIA DEL ENTRENAMIENTO MUSICAL EN UNA\nUNIVERSIDAD PARTICULAR DE LIMA",
+                    "dc_creator": [
+                        "Daniel   Ravelo Franco"
+                    ],
+                    "dc_subject": [
+                        "Educación",
+                        "11222"
+                    ],
+                    "dc_description": "música||learning||audioperceptiva||entrenamiento musical",
+                    "dc_date": "2012",
+                    "dc_type": "artículo científico",
+                    "dc_identifier": [
+                        "Universidad Peruana de Ciencias Aplicadas",
+                        "UPC",
+                        "\"El objetivo de la Revolución del Entrenamiento Musical es aprovechar las modernas herramientas tecnológicas para la educación, aplicándolas al entrenamiento auditivo, dentro de un programa de formación musical profesional. En este trabajo, se presentará la experiencia de transformación del curso presencial de Nivelación en Lectura y Entrenamiento Auditivo, de un pregrado universitario de Música, a la modalidad blearning. La modalidad b-learning de este curso se estableció sobre un Aula Virtual en una plataforma Moodle. El trabajo en línea, dentro de esta Aula Virtual, incluyó foros de comunicación, foros académicos, recursos autoinstructivos de entrenamiento auditivo y tareas académicas. La estrategia del trabajo online del curso consideró varios aspectos: 1) Estructura del Aula Virtual",
+                        " 2) Comunicación dentro del Aula Virtual",
+                        " 3) Administración del Aula Virtual",
+                        " 4) Creación y organización de contenidos",
+                        " 5) Planteamiento de una metodología de estudio en línea",
+                        " 6) Diseño y puesta en marcha de las actividades en línea",
+                        " 7) Calificación de las actividades realizadas en línea",
+                        " 8) Evaluación de todo el proceso. Los resultados obligaron a replantear los contenidos del mismo curso en los niveles siguientes debido a los importantes avances alcanzados.\"",
+                        "Perú",
+                        "2223-2516",
+                        "Perú"
+                    ],
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4985",
+                    "dc_rights": "Revista Digital de Investigación en Docencia Universitaria",
+                    "dc_format": "application/pdf",
+                    "dc_publisher": "Universidad Peruana de Ciencias Aplicadas",
+                    "dc_source": "Revista Digital de Investigación en Docencia Universitaria (Perú) Num.1 Vol.6"
+                }
+            },
+            {
+                "recordPacking": "xml",
+                "recordIdentifier": "477847000000",
+                "recordPosition": "192",
+                "recordData": {
+                    "dc_title": "CULTURA ESCOLAR-CULTURA DIGITAL: ¿SABERES EN DISPUTA?",
+                    "dc_creator": [
+                        "Patricia Fernanda   Mancebo"
+                    ],
+                    "dc_subject": [
+                        "Multidisciplinarias (Ciencias Sociales)",
+                        "10945"
+                    ],
+                    "dc_description": "Internet||ubicuidad||Escuela media||clases medias",
+                    "dc_date": "2012",
+                    "dc_type": "artículo científico",
+                    "dc_identifier": [
+                        "Universidad de Buenos Aires",
+                        "UBA",
+                        "\"En  un  contexto  de  globalización  creciente,  las  Tecnologías  de  la  Información y la Comunicación (TIC) representan un cambio social  profundo y estructural en las formas de conceptualizar y concebir  el  mundo.  Por  incidir  profundamente  en    todos  los  ámbitos  de  la  actividad  humana  no  deben  pensarse  sólo  como  una  mera  herramienta  que  agiliza  múltiples  tareas  pues,  en  las  sociedades  contemporáneas, se han constituido como un saber básico. Particularmente en el campo cultural educativo y ante la atenuación  de  la  hegemonía  socializadora  de  la  escuela  en  la  constitución  de  los sujetos, internet, como ejemplo de las muchas transformaciones  culturales  que  acarrean  las  nuevas  tecnologías,  influye  de  forma  radical sobre las disposiciones subjetivas y perceptivas de los jóvenes  en escolaridad media. Estas nuevas habilidades, plantean además un  nuevo tópico a resolver desde las instituciones escolares respecto a  su correcto uso, desde una perspectiva didáctico-pedagógica.\"",
+                        "Argentina",
+                        "0718-5693",
+                        "Chile"
+                    ],
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4778",
+                    "dc_rights": "Revista Electrónica Gestión de las Personas y Tecnología",
+                    "dc_format": "application/pdf",
+                    "dc_publisher": "Universidad de Santiago de Chile",
+                    "dc_source": "Revista Electrónica Gestión de las Personas y Tecnología (Chile) Num.13 Vol.5"
+                }
+            },
+            {
+                "recordPacking": "xml",
+                "recordIdentifier": "477847000000",
+                "recordPosition": "193",
+                "recordData": {
+                    "dc_title": "DIMENSIONES DE ANÁLISIS SOBRE LA  CIENCIA  PRODUCIDA EN LA UNIVERSIDAD PÚBLICA EN  AMÉRICA LATINA",
+                    "dc_creator": [
+                        "María   Paz López",
+                        "Nerina   Sarthou"
+                    ],
+                    "dc_subject": [
+                        "Multidisciplinarias (Ciencias Sociales)",
+                        "11129;11105"
+                    ],
+                    "dc_description": "Ciencia||tecnología||universidad||dimensiones  de  análisis",
+                    "dc_date": "2012",
+                    "dc_type": "artículo científico",
+                    "dc_identifier": [
+                        "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+                        "Universidad Nacional de San Martín",
+                        "UNCPBA",
+                        "UNSAM",
+                        "\"El presente artículo busca organizar la literatura existente sobre la  ciencia y la tecnología generadas en las universidades públicas de la  región latinoamericana. Se considera que en las últimas dos décadas  los aportes sobre cómo se construye el conocimiento científico se  han multiplicado",
+                        " con ello, se han generado interrogantes y se han  ensayado respuestas a una diversidad de cuestiones relativas a las  tareas académicas desarrolladas en la universidad. En este trabajo  se  sostiene  que  cuatro  problemáticas  centrales  han  acaparado  la  atención:  el  financiamiento",
+                        "  la  orientación  de  la  investigación",
+                        "  la  vinculación  con  el  medio  extra-académico  y  la  relación  con  el  ámbito internacional.\"",
+                        "Argentina",
+                        "0718-5693",
+                        "Chile"
+                    ],
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4778",
+                    "dc_rights": "Revista Electrónica Gestión de las Personas y Tecnología",
+                    "dc_format": "application/pdf",
+                    "dc_publisher": "Universidad de Santiago de Chile",
+                    "dc_source": "Revista Electrónica Gestión de las Personas y Tecnología (Chile) Num.13 Vol.5"
+                }
+            },
+            {
+                "recordPacking": "xml",
+                "recordIdentifier": "477847000000",
+                "recordPosition": "194",
+                "recordData": {
+                    "dc_title": "Aproximación a la violencia laboral en el contexto argentino: reseña de la dimensión cuantitativa",
+                    "dc_creator": [
+                        "Liliana E.   Ferrari",
+                        "Graciela L.   Filippi",
+                        "María Carolina   Cebey"
+                    ],
+                    "dc_subject": [
+                        "Multidisciplinarias (Ciencias Sociales)",
+                        "10945;10945;10945"
+                    ],
+                    "dc_description": "acoso   laboral||Violencia   laboral||aproximación  cuantitativa",
+                    "dc_date": "2012",
+                    "dc_type": "artículo científico",
+                    "dc_identifier": [
+                        "Universidad de Buenos Aires",
+                        "UBA",
+                        "\"El   presente   trabajo   sintetiza   algunos   aspectos   de   la   labor  investigativa efectuada en el marco de la programación 2008-2010  de  la  Secretaría  de  Ciencia  y Técnica  de  la  Universidad  de  Buenos  Aires,   correspondientes   al   proyecto   de   investigación   Riesgos  psicosociales de los trabajadores. Efectos subjetivos e intersubjetivos  de  la  precarización  laboral  (Código  P015),  con  sede  en  el  Instituto  de Investigaciones de la Facultad de Psicología de la Universidad de  Buenos Aires. Caracterizamos  el  proyecto  en  términos  de  objetivos,  hipótesis  y   aproximación   metodológica.   Tratándose   esta   última   de   un  acercamiento  de  carácter  cuanti-cualitativo,  presentamos  en  esta  oportunidad  algunos  de  los  hallazgos  y  reflexiones  relativos  a  la  dimensión cuantitativa. Los resultados emergen de la aplicación del  cuestionario VAL-MOB –técnica que mide la incidencia de procesos  de acoso laboral –, en una muestra de 690 trabajadores de la Ciudad  Autónoma  de  Buenos  Aires,  Argentina.  Se  exponen  diferencias  significativas  según  el  tipo  de  organización  (pública  o  privada),  la   posición   que   se   ocupa   (operarios,   técnicos   especializados,  conductores) y el género.\"",
+                        "Argentina",
+                        "0718-5693",
+                        "Chile"
+                    ],
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4778",
+                    "dc_rights": "Revista Electrónica Gestión de las Personas y Tecnología",
+                    "dc_format": "application/pdf",
+                    "dc_publisher": "Universidad de Santiago de Chile",
+                    "dc_source": "Revista Electrónica Gestión de las Personas y Tecnología (Chile) Num.13 Vol.5"
+                }
+            },
+            {
+                "recordPacking": "xml",
+                "recordIdentifier": "477847000000",
+                "recordPosition": "195",
+                "recordData": {
+                    "dc_title": "Diez tesis sobre el trabajo inmaterial",
+                    "dc_creator": [
+                        "Pedro   Giordano",
+                        "Juan   Montes Cató"
+                    ],
+                    "dc_subject": [
+                        "Multidisciplinarias (Ciencias Sociales)",
+                        "10945;44"
+                    ],
+                    "dc_description": "industrial||sociedad post||fábrica difusa||operario social||Trabajo inmaterial",
+                    "dc_date": "2012",
+                    "dc_type": "artículo científico",
+                    "dc_identifier": [
+                        "Universidad de Buenos Aires",
+                        "Consejo Nacional de Investigaciones Científicas y Técnicas",
+                        "UBA",
+                        "CONICET",
+                        "\"Este artículo tiene por objetivo descomponer el marco interpretativo y develar las hipótesis subyacentes sobre las que reposa la propuesta analítica de los autores italianos Lazzarato y Negri, para quienes el rasgo característico de esta época es el proceso mediante el cual el trabajo inmaterial devino hegemónico dentro del modo de producción capitalista a partir de la reestructuración de la fábrica en el transcurso de los años setenta. Para ello presentamos diez tesis desde las cuales pueda precisarse la propuesta analítica y desde allí repensarla críticamente.\"",
+                        "Argentina",
+                        "0718-5693",
+                        "Chile"
+                    ],
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4778",
+                    "dc_rights": "Revista Electrónica Gestión de las Personas y Tecnología",
+                    "dc_format": "application/pdf",
+                    "dc_publisher": "Universidad de Santiago de Chile",
+                    "dc_source": "Revista Electrónica Gestión de las Personas y Tecnología (Chile) Num.14 Vol.5"
+                }
+            },
+            {
+                "recordPacking": "xml",
+                "recordIdentifier": "477847000000",
+                "recordPosition": "196",
+                "recordData": {
+                    "dc_title": "Participación de las Organizaciones de Adultos Mayores en las Políticas Públicas: El Consejo Federal de los Mayores",
+                    "dc_creator": [
+                        "Adriana   Fassio"
+                    ],
+                    "dc_subject": [
+                        "Multidisciplinarias (Ciencias Sociales)",
+                        "11088"
+                    ],
+                    "dc_description": "políticas públicas||Consejos  consultivos||organizaciones  de  personas  mayores",
+                    "dc_date": "2012",
+                    "dc_type": "artículo científico",
+                    "dc_identifier": [
+                        "Universidad Nacional de Mar del Plata",
+                        "UNMdP",
+                        "\"La  participación  de  ciudadanía  en  las  políticas  que  les  incumben  a  través  de  consejos consultivos  es  una  tendencia  de  relevancia  creciente    a  partir  de  la  maduración  de  los procesos  democráticos  en  la  región  y  de    los  debates  promovidos  por  los  organismos nacionales e internacionales. Este artículo se propone realizar una revisión del proceso de conformación, trayectoria,logros  y  pendientes  del  Consejo  Federal  de  los  Mayores  de  la Argentina como un caso de interésen el marco de la participación, en las políticas que les atañen, del  movimientode  personas  mayores  y de sus  organizaciones asociados  con referentes gubernamentales a nivel nacional.\"",
+                        "Argentina",
+                        "0718-5693",
+                        "Chile"
+                    ],
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4778",
+                    "dc_rights": "Revista Electrónica Gestión de las Personas y Tecnología",
+                    "dc_format": "application/pdf",
+                    "dc_publisher": "Universidad de Santiago de Chile",
+                    "dc_source": "Revista Electrónica Gestión de las Personas y Tecnología (Chile) Num.15 Vol.5"
+                }
+            },
+            {
+                "recordPacking": "xml",
+                "recordIdentifier": "70538666006",
+                "recordPosition": "197",
+                "recordData": {
+                    "dc_title": "Miradas de género a la criminalidad femenina",
+                    "dc_creator": [
+                        "Teresa  Salazar",
+                        "Blanca Elisa  Cabral"
+                    ],
+                    "dc_subject": [
+                        "Sociología",
+                        "18493;46919"
+                    ],
+                    "dc_description": "Criminalidad femenina||crítica a los saberes||perspectiva de género",
+                    "dc_date": "2012",
+                    "dc_type": "artículo científico",
+                    "dc_identifier": [
+                        "Universidad de los Andes",
+                        "UCV",
+                        "ULA",
+                        "\"Este trabajo aborda la criminalidad femenina a partir de algunas coordenadas teóricas con perspectiva de género, la cual permite un análisis crítico y multidimensional de las relaciones sociales entre los sexos. Se plantea la redefinición y actualización del discurso y práctica de la criminología en la comprensión y transformación de este problema, el cual pasa por una necesaria crítica epistémica teórica y metodológica a los saberes científicos y sus mecanismos de poder, con la finalidad de visibilizar otra cara del problema vinculado a la influencia de la estructura social entre mujeres y hombres en un contexto relacional.\"",
+                        "República Bolivariana de Venezuela",
+                        "No se conoce",
+                        "0798-3069",
+                        "República Bolivariana de Venezuela"
+                    ],
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=705",
+                    "dc_rights": "Fermentum. Revista Venezolana de Sociología y Antropología",
+                    "dc_format": "application/pdf",
+                    "dc_publisher": "Universidad de los Andes",
+                    "dc_source": "Fermentum. Revista Venezolana de Sociología y Antropología (República Bolivariana de Venezuela) Num.64 Vol.22"
+                }
+            },
+            {
+                "recordPacking": "xml",
+                "recordIdentifier": "70538666008",
+                "recordPosition": "198",
+                "recordData": {
+                    "dc_title": "El Crecimiento Negativo Cualitativo de los Investigadores en la Universidad Venezolana (2008-2011)",
+                    "dc_creator": [
+                        "José Pascual  Mora García"
+                    ],
+                    "dc_subject": [
+                        "Sociología",
+                        "18493"
+                    ],
+                    "dc_description": "Universidad||Investigación||Crecimiento negativo",
+                    "dc_date": "2012",
+                    "dc_type": "artículo científico",
+                    "dc_identifier": [
+                        "Universidad de los Andes",
+                        "ULA",
+                        "\"Recientemente se cometió un genocidio académico, cuando se eliminó por parte del gobierno nacional en el año 2011 la data histórica de 20 años del Programa Sistema de promoción al Investigador (SPI-PPI), programa que establecía el ranking de los investigadores reconocidos nacionalmente. Y aunque había experimentado un crecimiento positivo en sus casi 20 años, pasado de 741 investigadores en 1990 a 6791 para el 2009, se opto por eliminar el programa. En enero de 2011 el Ministerio P. P. de Ciencia y Tecnología convocó a un nuevo Registro Nacional de Innovadores e Investigadores (RNII), pero los resultados obtenidos han menoscabado la tradición de la evaluación de la investigación generando inconformidad por el sesgo ideológico. Aun cuando en términos cuantitativos pareciera que hay un crecimiento al incorporar los llamados innovadores el nuevo Programa de Estímulo a la Innovación e Investigación(PEII), no se presentó las estadísticas de quiénes no aplicaron al programa y que estaban clasificados en los más altos niveles del SPI-PPI. Pues el nuevo sistema sólo convalidó a los investigadores eméritos. Lo cierto es que hay un crecimiento negativo en lo cualitativo si tomamos en cuenta que una tercera parte de los anteriormente clasificados no aplicaron al PEII, además de una campaña de infravaloración hacia los investigadores destacados, que ven cada vez más menguadas las posibilidades de hacer investigación de punta en nuestras universidades, por las reducciones presupuestarias y limitaciones en las políticas de financiamiento de los programas de los Consejo de Desarrollo Científico Humanístico Tecnológico y de las Artes (CDCHTA). Aunque la ciencia no es neutra (Feyerabend) era conveniente que se incluyera un equipo de evaluadores heterodoxo ideológicamente para darle mayor credibilidad al programa.\"",
+                        "República Bolivariana de Venezuela",
+                        "0798-3069",
+                        "República Bolivariana de Venezuela"
+                    ],
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=705",
+                    "dc_rights": "Fermentum. Revista Venezolana de Sociología y Antropología",
+                    "dc_format": "application/pdf",
+                    "dc_publisher": "Universidad de los Andes",
+                    "dc_source": "Fermentum. Revista Venezolana de Sociología y Antropología (República Bolivariana de Venezuela) Num.64 Vol.22"
+                }
+            },
+            {
+                "recordPacking": "xml",
+                "recordIdentifier": "70538667007",
+                "recordPosition": "199",
+                "recordData": {
+                    "dc_title": "Psicología social y comunicación contrahegemónica: conociendo la televisora comunitaria venezolana Catia TVe",
+                    "dc_creator": [
+                        "Alejandra Astrid  León Cedeño",
+                        "Alexandre  Bonetti Lima",
+                        "Elis Teles  Caetano Silva",
+                        "Herbert  De Proença Lopes"
+                    ],
+                    "dc_subject": [
+                        "Sociología",
+                        "22402;22402;22402;22402"
+                    ],
+                    "dc_description": null,
+                    "dc_date": "2012",
+                    "dc_type": "artículo científico",
+                    "dc_identifier": [
+                        "Universidade Estadual de Londrina",
+                        "UEL",
+                        "\"Este proyecto es el resultado de nuestras vivencias y prácticas en el proyecto \"Psicología social y medios comunitarios en América Latina: un estudio con televisoras comunitarias de Brasil, Venezuela, Bolivia y Argentina\", en articulación con el curso de Especialización en Comunicación Popular y Comunitaria de la Universidade Estadual de Londrina. El poder de penetración de los medios de comunicación social, así comolos impactos que vienen produciendo en los últimos siglos en las organizaciones y relaciones sociales cotidianas, pasaron a ser pensados y tulizados ideológicamente como aparatos ideológicos para la reproducción de las relaciones de dominación, en la medida en que se muestran como instrumentos potentes que interfieren en los procesos de subjetivación. Tales medios abren un campo de posibilidades de colonización del mundo vivido por parte del sistema hegemónico, ya que simultáneamente presentifican las voces de los actores de la cotidianidad del mundo vivido, haciéndolas conocidas, y se las devuelven resignificadas y encenadas, buscando cooptar y naturalizar el orden social. Con ello dificultan la visibilidad de construcciones alternativas a este orden. Frente a esto, la comunicación popular y comunitaria surge como posibilidad de una producción comunicativa que se contrapone al tipo de producción de los grandes medios. Las prácticas de comunicación popular y comunitaria señalan una ruptura de esa lógica, estableciéndose como oposición a los estándares hegemónicos de ese orden social, defendiendo la construcción de nuevas realidades y configurándose como movimiento de resistencia a las fuerzas normatizadoras impuestas por los medios de comunicación de masa. En este sentido, su práctica trasciende la noción de una comunicación ejercida en el interior de una comunidad y resuena hacia las formas de organización de los social, con potencia para inventar relaciones diferentes: relaciones comunitarias, que actúan como fuerza militante en la defensa de nuevos modos de vida posibles. A través del trabajo conjunto entre psicología social y comunicación, este proyecto se dispone a trabajar apoyando las potencialidades y las posibles dificultades de construir comunicación contrahegemónica día a día. Pretendemos contribuir con la construcción de una psicología social que, además de analizar críticamente los medios hegemónicos, trabaje en el fortalecimiento de los medios contrahegemónicos a través del trabajo con experiencias de comunicación popular y comunitaria en América Latina, entre las cuales se destaca la televisora comunitaria Catia TVe (Caracas, Venezuela), una verdadera escuela de participación popular y combativa que recibe militantes y estudiosos de Venezuela, de América Latina y de diversos países del mundo\"",
+                        "Brasil",
+                        "0798-3069",
+                        "República Bolivariana de Venezuela"
+                    ],
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=705",
+                    "dc_rights": "Fermentum. Revista Venezolana de Sociología y Antropología",
+                    "dc_format": "application/pdf",
+                    "dc_publisher": "Universidad de los Andes",
+                    "dc_source": "Fermentum. Revista Venezolana de Sociología y Antropología (República Bolivariana de Venezuela) Num.65 Vol.22"
+                }
+            },
+            {
+                "recordPacking": "xml",
+                "recordIdentifier": "281023000000",
+                "recordPosition": "200",
+                "recordData": {
+                    "dc_title": "Presentación",
+                    "dc_creator": [
+                        "Yolanda  Castro-Robles"
+                    ],
+                    "dc_subject": [
+                        "Educación",
+                        "15253"
+                    ],
+                    "dc_description": null,
+                    "dc_date": "2012",
+                    "dc_type": "editorial",
+                    "dc_identifier": [
+                        "Pontificia Universidad Javeriana",
+                        "PUJ",
+                        "Colombia",
+                        "2027-1174",
+                        "Colombia"
+                    ],
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=2810",
+                    "dc_rights": "Magis. Revista Internacional de Investigación en Educación",
+                    "dc_format": "application/pdf",
+                    "dc_publisher": "Pontificia Universidad Javeriana",
+                    "dc_source": "Magis. Revista Internacional de Investigación en Educación (Colombia) Num.9 Vol.4"
+                }
+            }
+        ]
+    }
+}

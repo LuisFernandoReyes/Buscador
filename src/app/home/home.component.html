@@ -1,0 +1,16 @@
+<div *ngFor="let item of data">
+    <div class="tarjeta">
+        <div class="titulo">{{item.recordData.dc_title}}</div>
+        <div class="cuerpo">
+        <p>Creado por: {{item.recordData.dc_creator}}</p>
+        <p>{{item.recordData.dc_subject}}</p>
+        <p>Tipo de artículo: {{item.recordData.dc_type}}</p>
+        <p>{{item.recordData.dc_identifier}}</p>
+        <p>Relacion: {{item.recordData.dc_relation}}</p>
+        <p>Derechos: {{item.recordData.dc_rights}}</p>
+        <p>{{item.recordData.dc_publisher}}</p>
+        <p>Fuentes: {{item.recordData.dc_source}}</p>
+        </div>
+    </div>
+</div>
+
