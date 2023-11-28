@@ -42,9 +42,4 @@ export class PostsComponent {
   onRecordClick(_t11: any) {
     throw new Error('Method not implemented.');
   }
-
-  getPages(): number[] {
-    const pageCount = Math.ceil(this.totalItems / this.pageSize);
-    return Array.from({ length: pageCount }, (_, index) => index + 1);
-  }
 }
